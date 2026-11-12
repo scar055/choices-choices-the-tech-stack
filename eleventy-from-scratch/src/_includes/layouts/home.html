@@ -15,4 +15,9 @@
         <img class="[ intro__image ] [ radius ]" src="{{ intro.image }}" alt="{{ intro.imageAlt }}" />
     </div>
 </article>
+{% set ctaContent = primaryCTA %}
+{% include "partials/cta.html" %}
+
+{% set ctaContent = cta %}
+{% include "partials/cta.html" %}
 {% endblock %}
