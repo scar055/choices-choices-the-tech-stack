@@ -1,24 +1,24 @@
 {
 	"items": [
 		{
-			"text": "Home",
+			"text": "Dashboard",
 			"url": "/"
 		},
 		{
-			"text": "About",
-			"url": "/about-us/"
+			"text": "Profile",
+			"url": "/profile/"
 		},
 		{
-			"text": "Work",
-			"url": "/work/"
+			"text": "Grading",
+			"url": "/grading/"
 		},
 		{
-			"text": "Blog",
-			"url": "/blog/"
+			"text": "Results",
+			"url": "/results/"
 		},
 		{
-			"text": "Contact",
-			"url": "/contact/"
+			"text": "Notifications",
+			"url": "/notifications/"
 		}
 	]
 }
