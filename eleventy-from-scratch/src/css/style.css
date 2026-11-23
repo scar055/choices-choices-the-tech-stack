@@ -1,0 +1,16 @@
+section {
+    display: flex;
+
+    form {
+        background-color: #D7E9F4;
+        border-radius: 15px;
+
+        fieldset {
+            border: none;
+            border-radius: 15px;
+            background-color: white;
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}
